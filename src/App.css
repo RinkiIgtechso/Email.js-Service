@@ -1,0 +1,12 @@
+.App {
+  width: 30%;
+  margin: auto;
+  border: 1.5px solid teal;
+  border-radius: 7px;
+  padding: 1.2rem;
+  margin-top: 40px;
+}
+
+.App>div>input, .App>div>textarea{
+  width:-webkit-fill-available;
+}
